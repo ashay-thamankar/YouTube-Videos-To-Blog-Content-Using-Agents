@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎥 YouTube to Blog Generator using Crew AI ✍️  
 
 Effortlessly transform YouTube topics into insightful, engaging blog posts using the power of **Crew AI**! This application combines Streamlit for an intuitive UI with Crew AI for seamless task delegation, enabling users to generate blog content from a single topic.  
@@ -105,3 +106,6 @@ This project is licensed under the MIT License.
 ---
 
 ### 🎉 Happy Blogging with AI! 🚀  
+=======
+# YouTube-Videos-To-Blog-Content-Using-Agents
+>>>>>>> 82ec9aa05a45fbf28f9195ab9685492200a70ea1

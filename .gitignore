@@ -5,10 +5,14 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 __pycache__/*
 db/*
 research/test_repo/*
 research/db/*
+=======
+
+>>>>>>> 82ec9aa05a45fbf28f9195ab9685492200a70ea1
 # Distribution / packaging
 .Python
 build/
