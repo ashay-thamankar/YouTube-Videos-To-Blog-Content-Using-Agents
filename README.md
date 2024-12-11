@@ -24,6 +24,11 @@ Effortlessly transform YouTube topics into insightful, engaging blog posts using
 
 ---
 
+## Chatbot in Action! 🎉  
+![Blog Generation Chatbot Screenshot](https://github.com/ashay-thamankar/YouTube-Videos-To-Blog-Content-Using-Agents/blob/main/media/Youtube-Blog-Generation-Chatbot.png)
+
+---
+
 ## 🔎 How It Works?  
 
 1. **Input a Topic**: Users enter a topic in the UI (e.g., *AI advancements*).  
