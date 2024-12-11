@@ -47,8 +47,7 @@ Effortlessly transform YouTube topics into insightful, engaging blog posts using
 
 1. **Clone the Repository** 🗂️  
    ```bash  
-   git clone   
-   cd  
+   git clone  https://github.com/ashay-thamankar/YouTube-Videos-To-Blog-Content-Using-Agents.git
    ```  
 
 2. **Create a Conda Environment** 🐍  
